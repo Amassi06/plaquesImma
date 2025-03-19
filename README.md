@@ -21,4 +21,6 @@ Ce projet associe l'intelligence artificielle et la vision pour identifier et su
 🚦 Analyse des flux de circulation
 
 L’IA repousse sans cesse ses limites pour une gestion plus intelligente et automatisée des infrastructures routières !
+![Exemple de détection](1.png)
+
 
